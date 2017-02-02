@@ -1,0 +1,2 @@
+# Android-application-for-Natural-health-care-
+This is an android app built using android studio which gives natural cure for common diseases.It has other sections like first aid which gives step by step details on how to perform first aid along with link to some videos.It has some healthy cooking recipes and it also has a fitness section which gives some healthy daily routines.The users can also communicate with the server for any further queries(server is a java application).   
